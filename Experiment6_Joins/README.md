@@ -90,6 +90,7 @@ where o.purch_amt<100;
 ```
 
 **Output:**
+
 ![image](https://github.com/user-attachments/assets/642817f5-9d74-434f-b052-fa3a9280fe2f)
 
 
